@@ -1,0 +1,34 @@
+[
+    {
+        "email": "test@gmail.com",
+        "durum": "Gecerli"
+    },
+    {
+        "email": "mertkose@hotmail.com",
+        "durum": "Gecerli"
+    },
+    {
+        "email": "abc123@yahoo.com",
+        "durum": "Gecerli"
+    },
+    {
+        "email": "kullanici@",
+        "durum": "Gecersiz"
+    },
+    {
+        "email": "@gmail.com",
+        "durum": "Gecersiz"
+    },
+    {
+        "email": "deneme123@gmail.com",
+        "durum": "Gecerli"
+    },
+    {
+        "email": "mail@test.org",
+        "durum": "Gecerli"
+    },
+    {
+        "email": "hello@outlook.com",
+        "durum": "Gecerli"
+    }
+]
